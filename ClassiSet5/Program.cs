@@ -39,8 +39,9 @@ namespace ClassiSet5
             Console.WriteLine(accauntEdo.GetHistory());
 
            
-            BankAccaunt accaunt2 = new BankAccaunt("Mario Rossi", 100);
-
+            BankAccaunt accaunt2 = new BankAccaunt("Mario Rossi", 1000);
+            accaunt2.Deposit(200, DateTime.Now, "Regalo papa");
+            Console.WriteLine(accaunt2.GetHistory());
 
 
 

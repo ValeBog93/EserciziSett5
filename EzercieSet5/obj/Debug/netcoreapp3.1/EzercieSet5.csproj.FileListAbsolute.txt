@@ -11,3 +11,16 @@ C:\Users\faggi\OneDrive\Desktop\accademy\ESERCIZI_CORSO\EzercieSet5\EzercieSet5\
 C:\Users\faggi\OneDrive\Desktop\accademy\ESERCIZI_CORSO\EzercieSet5\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.dll
 C:\Users\faggi\OneDrive\Desktop\accademy\ESERCIZI_CORSO\EzercieSet5\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.pdb
 C:\Users\faggi\OneDrive\Desktop\accademy\ESERCIZI_CORSO\EzercieSet5\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.genruntimeconfig.cache
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\bin\Debug\netcoreapp3.1\EzercieSet5.exe
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\bin\Debug\netcoreapp3.1\EzercieSet5.deps.json
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\bin\Debug\netcoreapp3.1\EzercieSet5.runtimeconfig.json
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\bin\Debug\netcoreapp3.1\EzercieSet5.runtimeconfig.dev.json
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\bin\Debug\netcoreapp3.1\EzercieSet5.dll
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\bin\Debug\netcoreapp3.1\EzercieSet5.pdb
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.dll
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.pdb
+C:\Users\faggi\OneDrive\Desktop\Nuova cartella\EzercieSet5\obj\Debug\netcoreapp3.1\EzercieSet5.genruntimeconfig.cache

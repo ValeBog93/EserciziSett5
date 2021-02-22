@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faggi\\OneDrive\\Desktop\\accademy\\ESERCIZI_CORSO\\EzercieSet5\\EzercieSet5\\EzercieSet5.csproj",
+      "projectUniqueName": "C:\\Users\\faggi\\OneDrive\\Desktop\\Nuova cartella\\EzercieSet5\\EzercieSet5.csproj",
       "projectName": "EzercieSet5",
-      "projectPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\accademy\\ESERCIZI_CORSO\\EzercieSet5\\EzercieSet5\\EzercieSet5.csproj",
+      "projectPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\Nuova cartella\\EzercieSet5\\EzercieSet5.csproj",
       "packagesPath": "C:\\Users\\faggi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\accademy\\ESERCIZI_CORSO\\EzercieSet5\\EzercieSet5\\obj\\",
+      "outputPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\Nuova cartella\\EzercieSet5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

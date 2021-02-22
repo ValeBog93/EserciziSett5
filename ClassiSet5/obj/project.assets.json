@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faggi\\OneDrive\\Desktop\\accademy\\ESERCIZI_CORSO\\EzercieSet5\\ClassiSet5\\ClassiSet5.csproj",
+      "projectUniqueName": "C:\\Users\\faggi\\OneDrive\\Desktop\\Nuova cartella\\ClassiSet5\\ClassiSet5.csproj",
       "projectName": "ClassiSet5",
-      "projectPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\accademy\\ESERCIZI_CORSO\\EzercieSet5\\ClassiSet5\\ClassiSet5.csproj",
+      "projectPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\Nuova cartella\\ClassiSet5\\ClassiSet5.csproj",
       "packagesPath": "C:\\Users\\faggi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\accademy\\ESERCIZI_CORSO\\EzercieSet5\\ClassiSet5\\obj\\",
+      "outputPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\Nuova cartella\\ClassiSet5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
